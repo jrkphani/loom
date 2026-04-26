@@ -1,0 +1,9 @@
+[submodule "loom-core"]
+	path = loom-core
+	url = https://github.com/jrkphani/loom-core.git
+[submodule "loom-mcp"]
+	path = loom-mcp
+	url = https://github.com/jrkphani/loom-mcp.git
+[submodule "loom-meta"]
+	path = loom-meta
+	url = https://github.com/jrkphani/loom-meta.git
